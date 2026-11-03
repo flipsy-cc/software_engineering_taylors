@@ -1,0 +1,2 @@
+Test ID,Requirement,Use case,Test description,Steps,Expected result,Actual result,Pass/Fail,Tester,Date,Fix after test
+TC01,FR01,Log in,Student logs in with valid credentials,1. Open app 2. Enter ID and password 3. Tap Log in,Student home screen is shown,,,,,
