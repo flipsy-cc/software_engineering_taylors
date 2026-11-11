@@ -16,7 +16,7 @@ Uni Guide is a smart campus guide for students, lecturers and admins: campus map
 
 ## Links
 
-- Jira board: _add link_
+- Jira board: https://lukakisling.atlassian.net/jira/software/projects/UG/boards
 - Figma prototype: see [Design/Figma_Prototype_Link.md](Design/Figma_Prototype_Link.md)
 
 ## Folder structure (SDLC phases)
